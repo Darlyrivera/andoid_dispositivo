@@ -2,18 +2,30 @@
 
 1. Abrir **Android Studio**
 2. Seleccionar "**Device Manager**" en la barra de herramientas o en el menú "Tools"
-![1](img/1.png)
+
+<img  src="./img/1.png"  width="400px">  
+
 3. Seleccionar "**Create Device**"
-![2](img/2.png)
+
+<img  src="./img/2.png"  width="400px">  
+
 4. Seleccionar un dispositivo (teléfono o tableta)
-![3](img/3.png)
+
+<img  src="./img/3.png"  width="400px">  
+
 5. Seleccionar una versión de Android
-![4](img/4.png)
+
+<img  src="./img/4.png"  width="400px">  
+
 6. Personalizar la configuración del dispositivo virtual (RAM, almacenamiento interno, skin, etc.)
-![5](img/5.png)
+
+<img  src="./img/5.png"  width="400px">  
+
 7. Hacer clic en "**Finish**"
+
 8. Hacer clic en "**Play**" para iniciar el dispositivo virtual
-![6](img/6.png)
+
+<img  src="./img/6.png"  width="400px">  
 
 ## Glosario de funciones comunes de Android Studio
 
